@@ -6,8 +6,7 @@ Welcome to the setup guide for our wallet app! Follow these steps to get started
 Step 1: Clone the Repository
 First, clone the repository to your local machine using the following command:
 
-bash
-Copy code
+
 git clone https://github.com/your-username/your-wallet-app.git
 Step 2: Install Dependencies
 Navigate to the project directory and run the following command to install the necessary dependencies:
