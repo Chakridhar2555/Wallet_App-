@@ -10,7 +10,6 @@
 
 2. **Install Dependencies:**
    ```bash
-  cd Wallet_app
 flutter pub get 
 
 3. **Run the App:**
