@@ -18,4 +18,4 @@ You're now ready to run the app on your device or emulator. Use the following co
 ```bash
 flutter run
 
-3. **Run the App:**
+
